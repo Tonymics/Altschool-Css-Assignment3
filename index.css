@@ -16,18 +16,17 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  background-color: #CBC3E3;
+  background-color: #a7a8cd;
 }
 
 .header {
-  background-color: aqua;
   height: 50vh;
   width: 650px;
   margin: 0px auto;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-   background-image: url(./img/novus-2.jpeg);
+   background-image: url(./img/novusIV.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -37,8 +36,8 @@ body {
 }
 
 .header-1 {
-  color: rgba(80, 0, 0, 0.90);
-  background-color: yellow;
+  color: black;
+  background-color: #ffbf00;
   width: 300px;
   position: relative;
   top: -12px;
@@ -116,7 +115,7 @@ h1 {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-     background-image: url(./img/novus-2.jpeg);
+     background-image: url(./img/novusIV.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -126,8 +125,8 @@ h1 {
   }
   
   .header-1 {
-    color: rgba(80, 0, 0, 0.90);
-    background-color: yellow;
+    color: black;
+    background-color: #ffbf00;
     width: 300px;
     position: relative;
     top: -12px;
